@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @skeletonkey. A bit about me: Perl, Go, Java and all around polyglot. Trying to find the right language for the task at hand. Leader of nerds and perpetual student.
-- 👀 Automating mudane tasks so that I can get back to what I enjoy!
+- 👋 Hi, I’m @skeletonkey. A bit about me: Go, Perl, Bash, and all-around polyglot. Trying to find the right language for the task at hand. Leader of nerds and a perpetual student.
+- 👀 Automating mundane tasks so I can return to what I enjoy!
 - 🌱 How to interview well ... this seems to be something that you never master ... like Texas Hold'em
 - 💞️ I'll help out where I can.
-- 📫 You should reach me through issues and pull requests, but if you really need to you should be able to get a message to me at shiny.gift6738@fastmail.com
+- 📫 You should reach me through issues and pull requests, but if you need to, you should be able to get a message to me at shiny.gift6738@fastmail.com
