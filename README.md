@@ -2,4 +2,4 @@
 - 👀 Automating mundane tasks so I can return to what I enjoy!
 - 🌱 How to interview well ... this seems to be something that you never master ... like Texas Hold'em
 - 💞️ I'll help out where I can.
-- 📫 You should reach me through issues and pull requests, but if you need to, you should be able to get a message to me at shiny.gift6738@fastmail.com
+- 📫 You should reach me through issues and pull requests, but if you need to, you can get a message to me at shiny.gift6738@fastmail.com
